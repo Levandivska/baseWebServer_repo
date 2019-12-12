@@ -3,4 +3,4 @@
 to run program:
   - create database
   - run create_table.sql
-  - run app.py with aruments: <database_name> <password>
+  - run app.py with aruments <database_name> <password>
